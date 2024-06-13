@@ -1,4 +1,6 @@
 streamlit
 langchain
-langchain-openai
+#langchain-openai
+transformers
+langchain-groq
 tiktoken
